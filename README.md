@@ -56,7 +56,7 @@ Berikut adalah tangkapan layar dari aplikasi:
 ## 🚀 Cara Menjalankan Aplikasi
 1.  Clone repository ini:
     ```bash
-    git clone [LINK_GITHUB_REPO_KAMU]
+    git clone https://github.com/Sann291/XLiteApp.git
     ```
 2.  Buka project menggunakan **Android Studio**.
 3.  Pastikan file `google-services.json` sudah terhubung dengan akun Firebase Anda (atau gunakan file yang sudah disertakan jika public).
