@@ -1,6 +1,6 @@
 # XLiteApp - Social Media App (Twitter/X Clone)
 
-Aplikasi mobile Android berbasis Kotlin yang mereplikasi fitur dasar media sosial Twitter/X. Proyek ini dibuat untuk memenuhi Tugas Besar/Ujian Akhir Semester Mata Kuliah Pemrograman Mobile.
+Aplikasi mobile Android berbasis Kotlin yang mereplikasi fitur dasar media sosial Twitter/X. Proyek ini dibuat untuk memenuhi Tugas Besar/Ujian Akhir Semester Mata Kuliah Aplikasi Mobile 2.
 
 ## 👤 Identitas Pengembang
 * **Nama:** [Muhammad Esan Alfurqan]
