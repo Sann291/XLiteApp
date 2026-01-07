@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "355452139234",
+    "firebase_url": "https://xliteapp-default-rtdb.firebaseio.com",
+    "project_id": "xliteapp",
+    "storage_bucket": "xliteapp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:355452139234:android:5d78c188f161bba65190bb",
+        "android_client_info": {
+          "package_name": "com.example.xliteapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "355452139234-8qogg3bkvri557rn2e6h8q3aofv1c5d4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.xliteapp",
+            "certificate_hash": "a5f2fb2c862bd9c982215c00aaaa5ec2fd9ddeee"
+          }
+        },
+        {
+          "client_id": "355452139234-p13v1nasar3c1u5ur8gj4f2od85di6qq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWM9NyoVmu5tzKDtuIE-csCxwICAOcBiE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "355452139234-p13v1nasar3c1u5ur8gj4f2od85di6qq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
