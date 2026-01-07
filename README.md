@@ -1,6 +1,6 @@
 # XLiteApp - Social Media App (Twitter/X Clone)
 
-Aplikasi mobile Android berbasis Kotlin yang mereplikasi fitur dasar media sosial Twitter/X. Proyek ini dibuat untuk memenuhi Tugas Besar/Ujian Akhir Semester Mata Kuliah Pemrograman Mobile.
+Aplikasi mobile Android berbasis Kotlin yang mereplikasi fitur dasar media sosial Twitter/X. Proyek ini dibuat untuk memenuhi Tugas Besar/Ujian Akhir Semester Mata Kuliah Aplikasi Mobile 2.
 
 ## 👤 Identitas Pengembang
 * **Nama:** [Muhammad Esan Alfurqan]
@@ -56,7 +56,7 @@ Berikut adalah tangkapan layar dari aplikasi:
 ## 🚀 Cara Menjalankan Aplikasi
 1.  Clone repository ini:
     ```bash
-    git clone [LINK_GITHUB_REPO_KAMU]
+    git clone https://github.com/Sann291/XLiteApp.git
     ```
 2.  Buka project menggunakan **Android Studio**.
 3.  Pastikan file `google-services.json` sudah terhubung dengan akun Firebase Anda (atau gunakan file yang sudah disertakan jika public).
