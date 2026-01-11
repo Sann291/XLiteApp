@@ -5,6 +5,8 @@ Aplikasi mobile Android berbasis Kotlin yang mereplikasi fitur dasar media sosia
 ## 👤 Identitas Pengembang
 * **Nama:** [Muhammad Esan Alfurqan]
 * **NIM:** [2304411478]
+* **Nama:** [Andini]
+* **NIM:** [2304411077]
 * **Kelas:** [5K RPL 3]
 * **Prodi:** Informatika - Universitas Cokroaminoto Palopo
 
